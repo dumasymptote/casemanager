@@ -1,15 +1,9 @@
-import PropTypes from 'prop-types'
 
-function Header(props) {
+const Header = () => {
     return (
         <header>
         </header>
     )
 }
-
-Header.propTypes = {
-
-}
-
 export default Header
 

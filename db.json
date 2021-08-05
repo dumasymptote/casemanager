@@ -1,0 +1,40 @@
+{
+  "Accounts": [
+    {
+      "id": 1,
+      "Name": "We Sue For You",
+      "MailingAddress": "123 Main St",
+      "MailingCity": "Dallas",
+      "MailingState": "TX",
+      "MailingPostalCode": "75204",
+      "LicensedUsers": 10,
+      "Users": [{}],
+      "Clients": [{}]
+    },
+    {
+      "id": 2,
+      "Name": "RGE Law LLC",
+      "MailingAddress": "125 Main St",
+      "MailingCity": "Dallas",
+      "MailingState": "TX",
+      "MailingPostalCode": "75204",
+      "LicensedUsers": 10,
+      "Users": [{}],
+      "Clients": [{}]
+    }
+  ],
+  "Users": [
+    {
+      "FirstName": "Mark",
+      "LastName": "Guthrie",
+      "Account": 1,
+      "Clients": [{}]
+    },
+    {
+      "FirstName": "Carlos",
+      "LastName": "Rodriguez",
+      "Account": 1,
+      "Clients": [{}]
+    }
+  ]
+}
